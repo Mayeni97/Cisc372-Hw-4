@@ -1,5 +1,5 @@
 
-# README: CUDA Fractal Zoom Project
+# CUDA Fractal Zoom Project
 
 ---
 
