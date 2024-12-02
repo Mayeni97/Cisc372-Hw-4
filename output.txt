@@ -1,0 +1,10 @@
+Script started on Mon Dec  2 13:56:39 2024
+]0;mayeni@:~/cisc372-hw-4[?1034h[mayeni@r2v01 cisc372-hw-4]$ exitscp -r /usa/mayeni/cisc372-hw-4 /home/3871[mayeni@r2v01 cisc372-hw-4]$ git clone git@gitlab.eecis.udel.edu:mayeni/ciscc372-hw-4.git[A cisc372-hw-4]$ [4Pscp -r /usa/mayeni/cisc372-hw-4 /home/3871
+[K[A[mayeni@r2v01 cisc372-hw-4]$ scp -r /usa/mayeni/cisc372-hw-4 /home/3871[mayeni@r2v01 cisc372-hw-4]$ exit[K[Ksrun ./a.out 4096 2160 60
+Fractal v1.6 [serial]
+Computing 60 frames of 4096 by 2160 fractal
+CUDA compute time: 0.3964 s
+]0;mayeni@:~/cisc372-hw-4[mayeni@r2v01 cisc372-hw-4]$ es xit
+exit
+
+Script done on Mon Dec  2 13:57:09 2024
